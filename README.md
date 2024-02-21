@@ -9,31 +9,14 @@ Lista de operaciones que se deben practicar:
 5. Inversa (aditiva) de una matriz compleja.
 6. Multiplicación de un escalar por una matriz compleja.
 7. Transpuesta de una matriz/vector
-Conjugada de una matriz/vector
-Adjunta (daga) de una matriz/vector
-Producto de dos matrices (de tamaños compatibles)
-Función para calcular la "acción" de una matriz sobre un vector.
-Producto interno de dos vectores
-Norma de un vector
-Distancia entre dos vectores
-Valores  y vectores propios de una matriz
-Revisar si una matriz es unitaria
-Revisar si una matriz es Hermitiana
-Producto tensor de dos matrices/vectores
-
-Multiplicación de un escalar por un vector complejo.
-Adición de matrices complejas.
-Inversa (aditiva) de una matriz compleja.
-Multiplicación de un escalar por una matriz compleja.
-Transpuesta de una matriz/vector
-Conjugada de una matriz/vector
-Adjunta (daga) de una matriz/vector
-Producto de dos matrices (de tamaños compatibles)
-Función para calcular la "acción" de una matriz sobre un vector.
-Producto interno de dos vectores
-Norma de un vector
-Distancia entre dos vectores
-Valores  y vectores propios de una matriz
-Revisar si una matriz es unitaria
-Revisar si una matriz es Hermitiana
-Producto tensor de dos matrices/vectores
+8. Conjugada de una matriz/vector
+9. Adjunta (daga) de una matriz/vector
+10. Producto de dos matrices (de tamaños compatibles)
+11. Función para calcular la "acción" de una matriz sobre un vector.
+12. Producto interno de dos vectores
+13. Norma de un vector
+14. Distancia entre dos vectores
+15. Valores  y vectores propios de una matriz
+16. Revisar si una matriz es unitaria
+17. Revisar si una matriz es Hermitiana
+18. Producto tensor de dos matrices/vectores
